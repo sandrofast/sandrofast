@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sandrofast
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sandrofast/sandrofast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 meu nome è @sandrofast
+- 👀 eu estou interessado em aprender novas linguagens
+- 🌱 eu estou aprendendo recentemente a programar a linguagem do scratch
+- 💞️meu email de contato è sandrofast345@gmail.com 
+ 
